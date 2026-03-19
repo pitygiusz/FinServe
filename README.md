@@ -4,6 +4,15 @@ This repository contains a working prototype of an AI-powered customer support s
 
 **[Full project documentation available here.](documentation.md)**
 
+## App Screenshots
+
+### Dashboard with successfully drafted response based on the retrieved policy:
+![success](screenshots/FinServe_success.png)
+
+### Dashboard with safety flag triggered due to no relevant policy found:
+![safety_flag](screenshots/FinServe_safety_flag.png)
+
+
 ## Repository Structure
 
   * **`app.py`** – The main frontend application written in Python using Streamlit.
